@@ -2,6 +2,10 @@
 
 **GameMagic** is a Python-based application that analyzes your gaming habits, predicts which games you're likely to play for long periods, and offers insights into your gaming history. It uses machine learning to make predictions based on your gaming logs and provides insightful data visualizations to help you better understand your gameplay.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aiphos97/GameMagic/main/pc_games_over_30.png" alt="PC Games Over 30 Minutes" width="400"/>
+</p>
+
 ## 📊 Features
 
 - **Game Duration Analysis**: Analyzes how much time you've spent on each game and groups them by platform and playtime.
